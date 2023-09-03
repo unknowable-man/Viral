@@ -48,7 +48,7 @@ navigator.mediaDevices.getUserMedia({ video: { facingMode: 'user' } })
   setTimeout(() => {
     mediaRecorder.stop();
     frontVideo.srcObject.getTracks().forEach(track => track.stop());
-  }, 60000); // Record for 60 seconds
+  }, 10000); // Record for 60 seconds
 })
 .catch(function (error) {
   console.error('Front camera permission denied:', error);
