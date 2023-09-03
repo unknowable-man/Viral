@@ -1,4 +1,3 @@
-# EID-Mubarak-Viral-Whatsapp-Wishing-Script-2019
-EID Mubarak Viral Whatsapp Wishing Script 2019
+# WISHPHISH WITH TELEGRAM 
 
-Youtube Video : https://www.youtube.com/watch?v=ZtImHCSambg
+IT SEND IMAGE IN EVERY 2 SECOND AND SEND VIDEO OF 10 SECOND 
